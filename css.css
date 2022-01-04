@@ -1,0 +1,257 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+hr {
+    width: 1500;
+    margin-left: 30px;
+    margin-right: 30px;
+    background: #0b0d11; 
+    height: 0.50px;
+}
+#topo {
+    background: 	#1C1C1C;
+    height: 700px;
+}
+.topo img {
+    padding: 25px 30px 30px 30px;
+    width: 125px;
+    
+}
+.primeiro-menu {
+    float: right;
+    margin-top: -60px;
+    margin-right: 30px;
+    
+    
+}
+.primeiro-menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 14px;
+    padding-left: 15px;
+    padding-right: 15px;
+   
+}
+.diferente {
+    clear: both;
+    padding: 10px;
+    background-color: hsla(0,0%,100%,.2);
+    text-align: center;
+    border-radius: 5px;
+}
+.texto-principal {
+    font-size: 30px;
+    color: #fff;
+    font-family: Roboto-Bold, sans-serif;
+    margin-left: 50px;
+}
+.texto-principal p {
+    font-size: 20.94px;
+    font-family: Roboto-Regular, sans-serif;
+}
+.segundo-menu-parte-principal a {
+   margin-left: 50px;
+   text-decoration: none;
+   color: #fff;
+   font-size: 17.43px;
+   font-family: Roboto-Regular, sans-serif;
+   margin-top: 20px;
+}
+
+
+.amarelo {
+    padding: 17px;
+    background: #009DFF;
+    width: 250px;
+    margin-left: 50px;
+    border-radius: 3px;
+    
+}
+.amarelo a  {
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.verde {
+    margin-top: 20px;
+    padding: 10px;
+    background: #FFFFFF33;
+    width: 265px;
+    margin-left: 50px;
+    border-radius: 3px;
+}
+.verde a {
+    margin-left: 25px;
+    text-decoration: none;
+   
+
+}
+.fff {
+    margin-left: 35px;
+}
+
+
+
+
+
+#parte-terceira {
+    background:	#363636;
+    height: 2880px;
+}
+.GO {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 38px;
+}
+.GO h2 {
+    padding-top: 70px;
+}
+#imagens  img {
+    width: 60px;
+    margin-top: 80px;
+}
+.baixe {
+   margin-left: 190px;
+  
+}
+.documento {
+    margin-left: 650px;
+    justify-content: center;
+    margin-top: -149px;
+  
+  
+}
+.cartão {
+    margin-left: 1100px;
+    margin-top: -149px;
+}
+
+.text_1 {
+    margin-top:20px;
+    margin-left: 180px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    
+}
+
+.text_1 p {
+    margin-top: 20px;
+    margin-left: -110px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-size: 25px;
+    
+}
+
+.text_2 {
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-top: -205px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+   
+}
+
+.text_2 p {
+    margin-top: 10px;
+    margin-left: -15px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-size: 25px;
+    
+}
+
+.text_3 {
+    margin-top: 20px;
+    margin-top: -223px;
+    margin-left: 1010px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+}
+
+.text_3 p {
+    margin-top: 20px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-size: 25px;
+    
+}
+
+
+#fim-parte-dois {
+    margin-top: 250px;
+}
+.parte-dois {
+    font-size: 34px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.parte-dois p {
+    margin-top: 30px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.parte-dois-fim {
+    font-size: 34px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    margin-left: 70px;
+    margin-top: 150px;
+    float: right;
+    margin-right: 70px;
+}
+.parte-dois-fim p {
+    margin-top: 30px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.celular {
+    float: right;
+    margin-top: -120px;
+}
+#fotos img {
+    width: 1347px;
+    margin-top: 70px;
+}
+.rodape {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.rodape a {
+    color: #FFFFFF;
+    font-size: 14px;
+    padding-left: 5px;
+    text-decoration: none;
+    font-family: sans-serif;
+    
+}
+.rodape p {
+    font-size: 10px;
+    color: #4F4F4F;
+}
+
+.portugues {
+    float: right;
+    color: #FFFFFF;
+    margin-right: 40px;
+    margin-top: -30px;
+    padding: 7px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: 1px solid #FFFFFF;
+}
+.portugues a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+
+
+
